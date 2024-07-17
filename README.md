@@ -171,9 +171,8 @@ Welcome to my GitHub repository for the ONGC Summer Internship 2024! This projec
 
 ## 🤝 Connect with Me
 
-- LinkedIn: <a href="https://www.linkedin.com/in/karan-thakkar-571689250/" target="_blank">LinkedIn Profile</a>
+- LinkedIn: [[https://www.linkedin.com](https://www.linkedin.com/in/karan-thakkar-571689250/)]
 
-- [Email : ](mailto:karanthakkar1707@gmail.com)
-
+- Email: [karanthakkar1707@gmail.com]
 
 Thank you for visiting my project! Feel free to reach out if you have any questions or feedback. ✨
