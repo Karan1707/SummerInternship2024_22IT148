@@ -3,7 +3,7 @@
 <h2>4th Semester Summer Internship</h2>
 <h3>ONGC Summer Internship 2024</h3>
 
-Welcome to my GitHub repository for the ONGC Summer Internship 2024! This project showcases the work done during the internship, including practical insights and hands-on experience with Amazon Web Services (AWS). 
+Welcome to my GitHub repository for the ONGC Summer Internship 2024! This project showcases the work done during the internship, including practical insights and hands-on experience with Oil and Natural Gas Corporation (ONGC). 
 
 ## Week 1: Introduction to SCADA and Communication Systems 🚀
 
