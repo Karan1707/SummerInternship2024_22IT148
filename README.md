@@ -1,4 +1,4 @@
-# SummerInternship2024_22IT148
+# Summer Internship 2024 - 22IT148
 
 <h2>4th Semester Summer Internship</h2>
 <h3>ONGC Summer Internship 2024</h3>
